@@ -1,0 +1,21 @@
+def abc():
+	wdsdsdsd
+	asasasas
+	asasasas
+	asasasasa
+	asasasas
+	qasasasas
+
+	asasasas
+#asasdasd
+
+asdasdasdasd
+def abc():
+	wdsdsdsd
+	asasasas
+	asasasas
+
+	asasasas
+#asasdasd
+
+asdasdasdasd
